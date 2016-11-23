@@ -1,0 +1,8 @@
+<!ELEMENT annotations (subtitle, page)>
+<!ELEMENT subtitle (#PCDATA)>
+	<!ATTLIST subtitle start CDATA #REQUIRED>
+	<!ATTLIST subtitle end CDATA>
+<!ELEMENT page>
+	<!ATTLIST subtitle start CDATA #REQUIRED>
+	<!ATTLIST subtitle end CDATA>
+	<!ATTLIST subtitle src CDATA #REQUIRED>

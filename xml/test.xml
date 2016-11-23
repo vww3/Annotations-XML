@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<!DOCTYPE annotations SYSTEM "dtd/annotations.dtd">
+<annotations>
+	
+	<subtitle start="0" end="20"><![CDATA[<i>Mickaël BOIDIN : </i>Bonjour à tous !]]></subtitle>
+	<subtitle start="6.3" end="11.5">Ceci est la voix de Lisa LAMIER</subtitle>
+	<subtitle start="6.3" end="11.5"><![CDATA[Vous pouvez retrouver plus d'information sur <a href="http://www.google.fr" target="_blank">sa page</a>]]></subtitle>
+			
+	<page start="2" end="3" pause="2" src="http://localhost:8888/xml/target.html" />
+	
+</annotations>
